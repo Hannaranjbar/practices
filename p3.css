@@ -1,0 +1,10 @@
+tr,th,td{
+    border: 8px solid palevioletred;
+    background-color: aqua;
+    margin: 8px;
+    padding: 10px;
+}
+body{
+    background-color: blueviolet;
+
+}
